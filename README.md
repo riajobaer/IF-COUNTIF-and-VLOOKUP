@@ -15,3 +15,5 @@ In the **VLOOKUP-Approximate** worksheet I use VLOOKUP function to calculate *re
 ![category](https://user-images.githubusercontent.com/33751371/34722080-9461e94a-f56f-11e7-9fa8-d23e1f26b8bf.PNG)
 
 ### CountIf:
+In the **COUNTIF** worksheet I use countif function for counting the number of cells with *Kitchen, Dining, Bedroom, LivingRoom,
+Kids Room, Bath, Entryways* in cells B4 through B303.
