@@ -16,4 +16,4 @@ In the **VLOOKUP-Approximate** worksheet I use VLOOKUP function to calculate *re
 
 ### CountIf:
 In the **COUNTIF** worksheet I use countif function for counting the number of cells with *Kitchen, Dining, Bedroom, LivingRoom,
-Kids Room, Bath, Entryways* in cells B4 through B303.
+Kids Room, Bath, Entryways* in cells **B4** through **B303**.
