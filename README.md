@@ -17,4 +17,5 @@ In the **VLOOKUP-Approximate** worksheet I use VLOOKUP function to calculate *re
 ### CountIf:
 In the **COUNTIF** worksheet I use countif function for counting the number of cells with *Kitchen, Dining, Bedroom, LivingRoom,
 Kids Room, Bath, Entryways* in cells **B4** through **B303**.
+Here is an example showing the desired output for this field.
 ![countif](https://user-images.githubusercontent.com/33751371/34821794-0bfdecda-f6ef-11e7-8dc1-a31f363fd744.PNG)
